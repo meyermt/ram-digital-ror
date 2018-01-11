@@ -13,3 +13,11 @@
 //= require rails-ujs
 //= require turbolinks
 //= require_tree .
+//= require jquery3
+//= require jquery_ujs
+//= require bootstrap.min
+//= require jquery.easing.compatibility
+//= require jquery.easing.min
+//= require scrollreveal.min
+//= require jquery.magnific-popup.min
+//= require creative.min

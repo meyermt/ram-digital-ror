@@ -12,4 +12,10 @@
  *
  *= require_tree .
  *= require_self
+ *= require bootstrap-grid.min
+ *= require bootstrap-reboot.min
+ *= require bootstrap.min
+ *= require font-awesome.min
+ *= require magnific-popup
+ *= require creative.min
  */
